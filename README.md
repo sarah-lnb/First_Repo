@@ -10,6 +10,7 @@
     git init
 ``` 
 - Step 3: **Adding Files to the repository**
+``` 
     git add file_name
         or
     git add .
@@ -18,10 +19,11 @@
 - Step 4: **Commit Changes**
 ``` 
     git commit -m "version 0"
-
+``` 
 - Step 5: **Create a Remote Repo**
+``` 
 This is done on GitHub
-
+``` 
 - Step 6: **Connect me Local Repo to the Remote Repo**
-
+``` 
 
