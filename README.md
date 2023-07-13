@@ -22,7 +22,7 @@
 ``` 
 - Step 5: **Create a Remote Repo**
 ``` 
-This is done on GitHub
+ This is done on GitHub
 ``` 
 - Step 6: **Connect me Local Repo to the Remote Repo**
 ``` 
